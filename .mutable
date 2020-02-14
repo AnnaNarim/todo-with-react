@@ -1,0 +1,6 @@
+{
+    "healthCheckType": "http",
+    "healthCheck": "health",
+    "build": "npm run prod",
+    "memory": 256
+}
